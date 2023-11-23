@@ -149,7 +149,6 @@ def screenshot():
 
 screenshot()
 
-
 number_of_iterations = 0
 currentTime = time.time()
 stoppingTime = time.time() + time_iteration
