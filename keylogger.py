@@ -47,7 +47,7 @@ username = getpass.getuser()
 
 toaddr = "csc491testemail@gmail.com"
 
-key = " " # Generate an encryption key from the Cryptography folder
+key = " " 
 
 file_path = "C:\\Users\\sabri\\PycharmProjects\\keylogger\\Project"
 extend = "\\"
